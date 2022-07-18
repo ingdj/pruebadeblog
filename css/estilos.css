@@ -1,5 +1,21 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: whitesmoke;
+    color: #333333;
     background-color: chocolate;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.container {
+    width: 70%;
+    padding: 3em;
+    text-align: left;
+    border: 3px solid #000;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 5rem;
 }
