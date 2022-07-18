@@ -13,3 +13,6 @@ lo que esta en el log y el repositorio!!!!!
 
 Una solucion a esto podria ser tener diferentes repositorios iniciados para una carpeta o para cada acabo
 archivo y asi en caso de hacer reset solo se borran los cambios del archivo!!!!
+
+con git checkout si puedo volver a una version antigua de un solo archivo, me quedaria staged y luego yo podria hacer commit
+o simplemente en staged lo puedo cambiar y commit luego.
