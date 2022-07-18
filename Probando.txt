@@ -6,3 +6,10 @@ Cuantas veces va a ser esta vaina
 Ya acabo de dar reset y borre 3 lineas adicionales
 ademas volvi a la primera version del archivo
 con git reset hard
+
+Cabe destacar que tambien borramos el archivo HTML y la carpeta Css porque estaban en el log, 
+despues del estado que pedidos hacer el reset!!!!  por lo que con esto se demuestra que borra TODO
+lo que esta en el log y el repositorio!!!!!
+
+Una solucion a esto podria ser tener diferentes repositorios iniciados para una carpeta o para cada acabo
+archivo y asi en caso de hacer reset solo se borran los cambios del archivo!!!!
