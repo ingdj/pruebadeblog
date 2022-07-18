@@ -1,4 +1,8 @@
 Probando nuevamente con GIT a ver si salgo de esta vaina de una
  vez por todas.
 
- cuantas veces va a ser esta vaina
+Cuantas veces va a ser esta vaina
+
+Ya acabo de dar reset y borre 3 lineas adicionales
+ademas volvi a la primera version del archivo
+con git reset hard
