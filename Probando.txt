@@ -17,7 +17,8 @@ archivo y asi en caso de hacer reset solo se borran los cambios del archivo!!!!
 
 master 1 para rebase a ver que tal 
 
-master 2 para seguir probando
+Experimiento 1 
+
 
 con git checkout si puedo volver a una version antigua de un solo archivo, me quedaria staged y luego yo podria hacer commit
 o simplemente en staged lo puedo cambiar y commit luego.
