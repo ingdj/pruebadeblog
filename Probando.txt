@@ -19,6 +19,7 @@ master 1 para rebase a ver que tal
 
 Experimiento 1 
 
+experimiento 2
 
 con git checkout si puedo volver a una version antigua de un solo archivo, me quedaria staged y luego yo podria hacer commit
 o simplemente en staged lo puedo cambiar y commit luego.
